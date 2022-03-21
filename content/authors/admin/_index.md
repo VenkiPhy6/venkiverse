@@ -9,7 +9,12 @@ social:
       header: true
     link: https://www.linkedin.com/in/venkateshphysics/
     icon_pack: fab
+<<<<<<< HEAD
     icon: linkedin
+=======
+    icon: linkedin-brands
+    label: LinkedIn
+>>>>>>> bcfdbb88ffc4c9992081503375586a0c55029fbb
 organizations: []
 superuser: true
 status:
