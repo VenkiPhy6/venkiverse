@@ -1,7 +1,7 @@
 ---
 title: Venkatesh Subramanian
 role: Data Analyst
-avatar_filename: latest_me.png
+avatar_filename: avatar.png
 bio: Data Analyst
 interests: []
 social:
