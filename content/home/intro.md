@@ -19,6 +19,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Venki**, a data analyst.
+🐈 Hey! I'm [**Venki**](/about/), a data analyst.
 
 Check out my blog posts below 🌈
