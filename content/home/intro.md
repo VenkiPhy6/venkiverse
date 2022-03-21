@@ -19,6 +19,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hey! I'm **Venki**, a data analyst.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my blog posts below 🌈
