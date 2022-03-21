@@ -6,7 +6,7 @@ bio: Data Analyst
 interests: []
 social:
   - display:
-      header: false
+      header: true
     link: https://www.linkedin.com/in/venkateshphysics/
     icon_pack: fab
     icon: linkedin-brands
