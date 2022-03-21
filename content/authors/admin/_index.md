@@ -5,9 +5,7 @@ avatar_filename: latest_me.png
 bio: Data Analyst
 interests: []
 social:
-  - display:
-      header: true
-    link: https://www.linkedin.com/in/venkateshphysics/
+  - link: https://www.linkedin.com/in/venkateshphysics/
     icon_pack: fab
     icon: linkedin
 organizations: []
