@@ -11,6 +11,6 @@ social:
 organizations: []
 superuser: true
 status:
-  icon: ☕️
+  icon: 🤖
 ---
 I am a Data analyst with a Physics degree. I have an interest in Network Theory (on which I wrote my Master's Thesis), Data Science, and Public Policy. I believe in being an “Effective Altruist”.
