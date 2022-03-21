@@ -21,4 +21,4 @@ author: admin
 
 📊 Hey! I'm [**Venki**](/about/), a data analyst.
 
-Check out my blog posts below 🤖
+Check out my blog posts below 📝
